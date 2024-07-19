@@ -3,7 +3,7 @@
 -Email: Meneses72122@gmail.com
 
 
-<a href="[](https://christopermeneses.github.io/My-repo9/)"> Click me too view Website </a>
+<a href="https://christopermeneses.github.io/My-repo9/">Click me </a>
 
 #Overview/description 
 An informational webpage about great white sharks and and there traits that makesthem a wonderful and fearless shark.
